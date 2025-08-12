@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "V:\\TAP\\StudentSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA249A1B-12DA-499E-8D01-1DC22FECA79B}|StudentReg\\StudentReg.csproj|v:\\tap\\studentsolution\\studentreg\\studentreg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA249A1B-12DA-499E-8D01-1DC22FECA79B}|StudentReg\\StudentReg.csproj|solutionrelative:studentreg\\studentreg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA249A1B-12DA-499E-8D01-1DC22FECA79B}|StudentReg\\StudentReg.csproj|v:\\tap\\studentsolution\\studentreg\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA249A1B-12DA-499E-8D01-1DC22FECA79B}|StudentReg\\StudentReg.csproj|solutionrelative:studentreg\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A84816-B1A2-4999-B9E1-F0FD0EBE0E8B}|StudentConsoleApp\\StudentConsoleApp.csproj|v:\\tap\\studentsolution\\studentconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A84816-B1A2-4999-B9E1-F0FD0EBE0E8B}|StudentConsoleApp\\StudentConsoleApp.csproj|solutionrelative:studentconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentReg",
+              "DocumentMoniker": "V:\\TAP\\StudentSolution\\StudentReg\\StudentReg.csproj",
+              "RelativeDocumentMoniker": "StudentReg\\StudentReg.csproj",
+              "ToolTip": "V:\\TAP\\StudentSolution\\StudentReg\\StudentReg.csproj",
+              "RelativeToolTip": "StudentReg\\StudentReg.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T17:43:45.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "V:\\TAP\\StudentSolution\\StudentReg\\Class1.cs",
+              "RelativeDocumentMoniker": "StudentReg\\Class1.cs",
+              "ToolTip": "V:\\TAP\\StudentSolution\\StudentReg\\Class1.cs",
+              "RelativeToolTip": "StudentReg\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T17:43:10.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "V:\\TAP\\StudentSolution\\StudentConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "StudentConsoleApp\\Program.cs",
+              "ToolTip": "V:\\TAP\\StudentSolution\\StudentConsoleApp\\Program.cs",
+              "RelativeToolTip": "StudentConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T17:42:16.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
