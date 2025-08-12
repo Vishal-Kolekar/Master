@@ -1,0 +1,12 @@
+V:\TAP\HR Solution\Staffing\bin\Debug\net8.0\Staffing.deps.json
+V:\TAP\HR Solution\Staffing\bin\Debug\net8.0\Staffing.dll
+V:\TAP\HR Solution\Staffing\bin\Debug\net8.0\Staffing.pdb
+V:\TAP\HR Solution\Staffing\obj\Debug\net8.0\Staffing.csproj.AssemblyReference.cache
+V:\TAP\HR Solution\Staffing\obj\Debug\net8.0\Staffing.GeneratedMSBuildEditorConfig.editorconfig
+V:\TAP\HR Solution\Staffing\obj\Debug\net8.0\Staffing.AssemblyInfoInputs.cache
+V:\TAP\HR Solution\Staffing\obj\Debug\net8.0\Staffing.AssemblyInfo.cs
+V:\TAP\HR Solution\Staffing\obj\Debug\net8.0\Staffing.csproj.CoreCompileInputs.cache
+V:\TAP\HR Solution\Staffing\obj\Debug\net8.0\Staffing.dll
+V:\TAP\HR Solution\Staffing\obj\Debug\net8.0\refint\Staffing.dll
+V:\TAP\HR Solution\Staffing\obj\Debug\net8.0\Staffing.pdb
+V:\TAP\HR Solution\Staffing\obj\Debug\net8.0\ref\Staffing.dll

@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "V:\\TAP\\HR Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF504E47-2AE4-4678-BC7D-195E28112ADF}|..\\StudentManagment\\StudentManagment.csproj|v:\\tap\\studentmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE12BEC-A189-4BC2-8442-FABC10B0A810}|Staffing\\Staffing.csproj|v:\\tap\\hr solution\\staffing\\repositories\\implementations\\staffingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE12BEC-A189-4BC2-8442-FABC10B0A810}|Staffing\\Staffing.csproj|solutionrelative:staffing\\repositories\\implementations\\staffingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC89C8E-ADC9-4AED-8E40-2F1F1EF0F41C}|HRConsoleApp\\HRConsoleApp.csproj|v:\\tap\\hr solution\\hrconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC89C8E-ADC9-4AED-8E40-2F1F1EF0F41C}|HRConsoleApp\\HRConsoleApp.csproj|solutionrelative:hrconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE12BEC-A189-4BC2-8442-FABC10B0A810}|Staffing\\Staffing.csproj|v:\\tap\\hr solution\\staffing\\uimanager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE12BEC-A189-4BC2-8442-FABC10B0A810}|Staffing\\Staffing.csproj|solutionrelative:staffing\\uimanager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE12BEC-A189-4BC2-8442-FABC10B0A810}|Staffing\\Staffing.csproj|v:\\tap\\hr solution\\staffing\\services\\implementations\\staffingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE12BEC-A189-4BC2-8442-FABC10B0A810}|Staffing\\Staffing.csproj|solutionrelative:staffing\\services\\implementations\\staffingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE12BEC-A189-4BC2-8442-FABC10B0A810}|Staffing\\Staffing.csproj|v:\\tap\\hr solution\\staffing\\controller\\implementations\\staffingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE12BEC-A189-4BC2-8442-FABC10B0A810}|Staffing\\Staffing.csproj|solutionrelative:staffing\\controller\\implementations\\staffingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE12BEC-A189-4BC2-8442-FABC10B0A810}|Staffing\\Staffing.csproj|v:\\tap\\hr solution\\staffing\\controller\\interfaces\\istaffingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE12BEC-A189-4BC2-8442-FABC10B0A810}|Staffing\\Staffing.csproj|solutionrelative:staffing\\controller\\interfaces\\istaffingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE12BEC-A189-4BC2-8442-FABC10B0A810}|Staffing\\Staffing.csproj|v:\\tap\\hr solution\\staffing\\services\\interfaces\\istaffingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE12BEC-A189-4BC2-8442-FABC10B0A810}|Staffing\\Staffing.csproj|solutionrelative:staffing\\services\\interfaces\\istaffingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE12BEC-A189-4BC2-8442-FABC10B0A810}|Staffing\\Staffing.csproj|v:\\tap\\hr solution\\staffing\\repositories\\interfaces\\istaffingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE12BEC-A189-4BC2-8442-FABC10B0A810}|Staffing\\Staffing.csproj|solutionrelative:staffing\\repositories\\interfaces\\istaffingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE12BEC-A189-4BC2-8442-FABC10B0A810}|Staffing\\Staffing.csproj|v:\\tap\\hr solution\\staffing\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE12BEC-A189-4BC2-8442-FABC10B0A810}|Staffing\\Staffing.csproj|solutionrelative:staffing\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE12BEC-A189-4BC2-8442-FABC10B0A810}|Staffing\\Staffing.csproj|v:\\tap\\hr solution\\staffing\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE12BEC-A189-4BC2-8442-FABC10B0A810}|Staffing\\Staffing.csproj|solutionrelative:staffing\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "V:\\TAP\\StudentManagment\\Program.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagment\\Program.cs",
+              "ToolTip": "V:\\TAP\\StudentManagment\\Program.cs",
+              "RelativeToolTip": "..\\StudentManagment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T11:06:57.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStaffingController.cs",
+              "DocumentMoniker": "V:\\TAP\\HR Solution\\Staffing\\Controller\\Interfaces\\IStaffingController.cs",
+              "RelativeDocumentMoniker": "Staffing\\Controller\\Interfaces\\IStaffingController.cs",
+              "ToolTip": "V:\\TAP\\HR Solution\\Staffing\\Controller\\Interfaces\\IStaffingController.cs",
+              "RelativeToolTip": "Staffing\\Controller\\Interfaces\\IStaffingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T08:34:35.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaffingService.cs",
+              "DocumentMoniker": "V:\\TAP\\HR Solution\\Staffing\\Services\\Implementations\\StaffingService.cs",
+              "RelativeDocumentMoniker": "Staffing\\Services\\Implementations\\StaffingService.cs",
+              "ToolTip": "V:\\TAP\\HR Solution\\Staffing\\Services\\Implementations\\StaffingService.cs",
+              "RelativeToolTip": "Staffing\\Services\\Implementations\\StaffingService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAvwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T05:23:53.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStaffingService.cs",
+              "DocumentMoniker": "V:\\TAP\\HR Solution\\Staffing\\Services\\Interfaces\\IStaffingService.cs",
+              "RelativeDocumentMoniker": "Staffing\\Services\\Interfaces\\IStaffingService.cs",
+              "ToolTip": "V:\\TAP\\HR Solution\\Staffing\\Services\\Interfaces\\IStaffingService.cs",
+              "RelativeToolTip": "Staffing\\Services\\Interfaces\\IStaffingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T05:16:43.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "V:\\TAP\\HR Solution\\HRConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "HRConsoleApp\\Program.cs",
+              "ToolTip": "V:\\TAP\\HR Solution\\HRConsoleApp\\Program.cs",
+              "RelativeToolTip": "HRConsoleApp\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAD8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:33:29.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaffingRepo.cs",
+              "DocumentMoniker": "V:\\TAP\\HR Solution\\Staffing\\Repositories\\Implementations\\StaffingRepo.cs",
+              "RelativeDocumentMoniker": "Staffing\\Repositories\\Implementations\\StaffingRepo.cs",
+              "ToolTip": "V:\\TAP\\HR Solution\\Staffing\\Repositories\\Implementations\\StaffingRepo.cs",
+              "RelativeToolTip": "Staffing\\Repositories\\Implementations\\StaffingRepo.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAF8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:47:16.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "V:\\TAP\\HR Solution\\Staffing\\UIManager\\UIManager.cs",
+              "RelativeDocumentMoniker": "Staffing\\UIManager\\UIManager.cs",
+              "ToolTip": "V:\\TAP\\HR Solution\\Staffing\\UIManager\\UIManager.cs",
+              "RelativeToolTip": "Staffing\\UIManager\\UIManager.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAMwDoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:56:49.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StaffingController.cs",
+              "DocumentMoniker": "V:\\TAP\\HR Solution\\Staffing\\Controller\\Implementations\\StaffingController.cs",
+              "RelativeDocumentMoniker": "Staffing\\Controller\\Implementations\\StaffingController.cs",
+              "ToolTip": "V:\\TAP\\HR Solution\\Staffing\\Controller\\Implementations\\StaffingController.cs",
+              "RelativeToolTip": "Staffing\\Controller\\Implementations\\StaffingController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIAywCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T08:37:47.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStaffingRepo.cs",
+              "DocumentMoniker": "V:\\TAP\\HR Solution\\Staffing\\Repositories\\Interfaces\\IStaffingRepo.cs",
+              "RelativeDocumentMoniker": "Staffing\\Repositories\\Interfaces\\IStaffingRepo.cs",
+              "ToolTip": "V:\\TAP\\HR Solution\\Staffing\\Repositories\\Interfaces\\IStaffingRepo.cs",
+              "RelativeToolTip": "Staffing\\Repositories\\Interfaces\\IStaffingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:42:29.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "V:\\TAP\\HR Solution\\Staffing\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Staffing\\Entities\\Employee.cs",
+              "ToolTip": "V:\\TAP\\HR Solution\\Staffing\\Entities\\Employee.cs",
+              "RelativeToolTip": "Staffing\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:39:16.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "V:\\TAP\\HR Solution\\Staffing\\Class1.cs",
+              "RelativeDocumentMoniker": "Staffing\\Class1.cs",
+              "ToolTip": "V:\\TAP\\HR Solution\\Staffing\\Class1.cs",
+              "RelativeToolTip": "Staffing\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:38:01.855Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
