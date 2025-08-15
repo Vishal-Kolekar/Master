@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "88bS6B1nlIk=",
+  "dgSpecHash": "Db+okmEtP0w=",
   "success": true,
-  "projectFilePath": "V:\\TAP\\HR Solution\\HRConsoleApp\\HRConsoleApp.csproj",
+  "projectFilePath": "D:\\TAP\\HR Solution\\HRConsoleApp\\HRConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kolek\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\kolek\\.nuget\\packages\\google.protobuf\\3.30.0\\google.protobuf.3.30.0.nupkg.sha512",

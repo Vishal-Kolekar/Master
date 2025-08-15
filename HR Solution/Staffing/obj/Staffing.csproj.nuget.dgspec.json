@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "V:\\TAP\\HR Solution\\Staffing\\Staffing.csproj": {}
+    "D:\\TAP\\HR Solution\\Staffing\\Staffing.csproj": {}
   },
   "projects": {
-    "V:\\TAP\\HR Solution\\Staffing\\Staffing.csproj": {
+    "D:\\TAP\\HR Solution\\Staffing\\Staffing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "V:\\TAP\\HR Solution\\Staffing\\Staffing.csproj",
+        "projectUniqueName": "D:\\TAP\\HR Solution\\Staffing\\Staffing.csproj",
         "projectName": "Staffing",
-        "projectPath": "V:\\TAP\\HR Solution\\Staffing\\Staffing.csproj",
+        "projectPath": "D:\\TAP\\HR Solution\\Staffing\\Staffing.csproj",
         "packagesPath": "C:\\Users\\kolek\\.nuget\\packages\\",
-        "outputPath": "V:\\TAP\\HR Solution\\Staffing\\obj\\",
+        "outputPath": "D:\\TAP\\HR Solution\\Staffing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
