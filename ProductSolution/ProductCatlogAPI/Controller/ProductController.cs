@@ -12,17 +12,19 @@ namespace ProductCatlogAPI.Controller
     [ApiController]
     public class ProductController : ControllerBase
     {
-        IProductRepo repo = new ProductRepo();
-        //IProductService svc = new ProductService(repo);
+        IProductService _svc;
+
+        public ProductController(IProductService svc)
+        {
+            _svc = svc;
+        }
 
 
         // GET: api/<ProductController>
         [HttpGet]
         public IEnumerable<Product> Get()
         {
-        
-            IProductService svc = new ProductService(repo);
-            List<Product> products = svc.GetProd();
+            List<Product> products = _svc.GetProd();
             return products;
         }
 
@@ -30,8 +32,7 @@ namespace ProductCatlogAPI.Controller
         [HttpGet("{id}")]
         public Product Get(int id)
         {
-            IProductService svc = new ProductService(repo);
-            Product product = svc.GetById(id);
+            Product product = _svc.GetById(id);
             return product;
             
         }
@@ -40,8 +41,7 @@ namespace ProductCatlogAPI.Controller
         [HttpPost]
         public bool Post([FromBody] Product product)
         {
-            IProductService svc = new ProductService(repo);
-            bool status = svc.AddProduct(product);
+            bool status = _svc.AddProduct(product);
             return status;
         }
 
@@ -49,10 +49,9 @@ namespace ProductCatlogAPI.Controller
         [HttpPut("{id}")]
         public bool Put(int id, [FromBody] Product product)
         {
-            IProductService svc = new ProductService(repo);
 
             //Product prod = svc.GetById(id);
-            bool status = svc.UpdateProduct(product);
+            bool status = _svc.UpdateProduct(product);
             return status;
 
         }
@@ -61,8 +60,7 @@ namespace ProductCatlogAPI.Controller
         [HttpDelete("{id}")]
         public bool Delete(int id)
         {
-            IProductService svc = new ProductService(repo);
-            bool status = svc.DeleteProduct(id);
+            bool status = _svc.DeleteProduct(id);
             return status;
         }
     }
