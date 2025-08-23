@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Staffing.Entity;
 using MySql.Data.MySqlClient;
 using Staffing.Repository.Interface;
+using ProductCatlogAPI.Entity;
 
 namespace Staffing.Repository.Implementation
 {
@@ -34,7 +35,7 @@ namespace Staffing.Repository.Implementation
                         Id = reader.GetInt32("Id"),
                         Title = reader.GetString("Title"),
                         Description = reader.GetString("Description"),
-                        Stock = reader.GetInt32("Stock")
+                        Stock = reader.GetInt32("Stock"),
                     };
 
                     products.Add(product);
@@ -51,6 +52,8 @@ namespace Staffing.Repository.Implementation
             }
             return products;
         }
+
+
 
         public Product GetById(int id)
         {
@@ -136,8 +139,9 @@ namespace Staffing.Repository.Implementation
                 command.Parameters.AddWithValue("@Description", product.Description);
                 command.Parameters.AddWithValue("@Stock", product.Stock);
 
-                command.ExecuteNonQuery();
-                status = true;
+                int rowAffected =command.ExecuteNonQuery();
+
+                status = rowAffected >0;
             }
             catch(Exception ex)
             {

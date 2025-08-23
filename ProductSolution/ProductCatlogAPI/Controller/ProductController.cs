@@ -49,8 +49,10 @@ namespace ProductCatlogAPI.Controller
         [HttpPut("{id}")]
         public bool Put(int id, [FromBody] Product product)
         {
-
-            //Product prod = svc.GetById(id);
+            if(id != product.Id)
+            {
+                return false;
+            }
             bool status = _svc.UpdateProduct(product);
             return status;
 

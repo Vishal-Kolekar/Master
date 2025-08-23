@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ProductCatlogAPI.Entity;
 
 namespace Staffing.Entity
 {
@@ -16,5 +17,6 @@ namespace Staffing.Entity
         public string Title { get; set; }
         public string Description { get; set; }
         public int Stock { get; set; }
+
     }
 }
