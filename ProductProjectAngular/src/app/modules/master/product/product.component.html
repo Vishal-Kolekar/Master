@@ -1,0 +1,65 @@
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-12">
+            <h2 class="text-center mb-3" style="background-color: rgb(127, 181, 65);">Product Catlog</h2>
+          {{seletStr}}
+        </div>
+    </div>
+    
+    <div class="row mb-3">
+        <div class="col-md-3">
+            <label>Product Id </label>
+            <input type="text" class="form-control" placeholder="Product Id" [(ngModel)]="product.id">
+        </div>
+
+        <div class="col-md-3">
+            <label>Product Name </label>
+            <input type="text" class="form-control" placeholder="Product Title" [(ngModel)]="product.title">
+        </div>
+
+        <div class="col-md-3">
+            <label>Product Description </label>
+            <input type="text" class="form-control" placeholder="Description" [(ngModel)]="product.description">
+        </div>
+
+        <div class="col-md-3">
+            <label>Stock </label>
+            <input type="text" class="form-control" placeholder="Stock" [(ngModel)]="product.stock">
+        </div>
+    </div>
+
+
+    <div class="row mb-4">
+        <div class="col-md-12 d-flex gap-2">
+            <button class="btn btn-success" type="button" (click)="addProduct()">Add Product</button>
+            <button class="btn btn-primary" type="button" (click)="updateProduct()">Update Product</button>
+            <button class="btn btn-danger" type="button" (click)="deleteproduct()">Delete Product</button>
+            <button class="btn btn-secondary" type="button" (click)="clearFields()">Reset</button>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <h2 class="text-center mb-3">Product List</h2>
+            <table class="table table-bordered table-striped">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Product Id</th>
+                        <th>Product Title</th>
+                        <th>Product Description</th>
+                        <th>Product Stock</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let product of products" (click)="onRowSelect(product)">
+
+                        <td>{{product.id}}</td>
+                        <td>{{product.title}}</td>
+                        <td>{{product.description}}</td>
+                        <td>{{product.stock}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
